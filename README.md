@@ -1,5 +1,5 @@
 # Arduino-Pet-Projects
-cA3		Life Jacket Embedded System model
+cA3		--	Life Jacket Embedded System model\n
 cA4		Play music with arduino
 cA5		Sound Alarm Embedded System model
 cAfp		Simple DSP model displaying sound input as chars on lcd display
